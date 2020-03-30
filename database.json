@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "asdf!1234@",
+    "port": "3306",
+    "database": "mysql"
+}
